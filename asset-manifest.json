@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e31dbf66.chunk.css",
+    "main.js": "/static/js/main.cc59f896.chunk.js",
+    "main.js.map": "/static/js/main.cc59f896.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d273c1f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d273c1f2.js.map",
+    "static/js/2.0b5c5ac2.chunk.js": "/static/js/2.0b5c5ac2.chunk.js",
+    "static/js/2.0b5c5ac2.chunk.js.map": "/static/js/2.0b5c5ac2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.66f9ebffb0c1d0334ce85688031eee58.js": "/precache-manifest.66f9ebffb0c1d0334ce85688031eee58.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e31dbf66.chunk.css.map": "/static/css/main.e31dbf66.chunk.css.map",
+    "static/js/2.0b5c5ac2.chunk.js.LICENSE.txt": "/static/js/2.0b5c5ac2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/earth.2e20d8e6.png",
+    "static/media/faucet.png": "/static/media/faucet.57a7b2a2.png",
+    "static/media/mint.png": "/static/media/mint.5124fadf.png",
+    "static/media/monetary.png": "/static/media/monetary.57f5652c.png",
+    "static/media/supply.png": "/static/media/supply.aa3df378.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d273c1f2.js",
+    "static/js/2.0b5c5ac2.chunk.js",
+    "static/css/main.e31dbf66.chunk.css",
+    "static/js/main.cc59f896.chunk.js"
+  ]
+}
